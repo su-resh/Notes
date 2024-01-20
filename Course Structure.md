@@ -1,4 +1,5 @@
 # Course Structure (2022):
+
 | **Year I/Semester I**                | **Year I/Semester II**               |
 |--------------------------------------|--------------------------------------|
 | ELE 120: Basic Electrical Engineering | MTH 150: Algebra and Geometry        |
