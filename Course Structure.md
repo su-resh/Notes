@@ -38,4 +38,4 @@
 | MGT 250: Engineering Economics                 | XXX XXX: Elective II                        |
 | MGT 332: Entrepreneurship                      |                                               |
 | CMP 426: Network and Cyber Security            |                                               |
-| XXX XXX: Elective II                           |                       gi                        |
+| XXX XXX: Elective II                           |                                             |
