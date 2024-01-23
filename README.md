@@ -1,13 +1,4 @@
-# Welcome
-- **The updated Course Structure is provided on **Course Structure** file.**
-- All the contents provided are from Pokhara Engineering College 2022 batch.
-- This repo will be updated continously.
-- Feel free to contribute 😄.
-- Have a nice day.
-- Some notes are also available in the sheet you can review those.
-
   # Pokhara University Course Structure (2022):
-  # Course Structure (2022):
 
 | **Year I/Semester I**                | **Year I/Semester II**               |
 |--------------------------------------|--------------------------------------|
@@ -50,3 +41,8 @@
 | XXX XXX: Elective II                           |                                             |
 
 **Note:** This course structure is followed from 2022 B.E computer batch.  
+- All the contents provided are from Pokhara Engineering College 2022 batch.
+- This repo will be updated continously.
+- Feel free to contribute 😄.
+- Have a nice day.
+- Some notes are also available in the sheet you can review those.
