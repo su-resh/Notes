@@ -1,0 +1,100 @@
+{
+  "courses": {
+    "Year I": [
+      {
+        "semester": "Semester I",
+        "courses": [
+          "ELE 120: Basic Electrical Engineering",
+          "MTH 110: Calculus-I",
+          "ENG 110: Communication Techniques",
+          "CMP 122: Computer Workshop",
+          "ELX 110: Digital Logic",
+          "ELX 120: Elx Device and Circuit",
+          "CMP 124: Programming in C"
+        ]
+      },
+      {
+        "semester": "Semester II",
+        "courses": [
+          "MTH 150: Algebra and Geometry",
+          "CHM 110: Applied Chemistry",
+          "PHY 110: Applied Physics",
+          "MEC 116: Basic Engg Drawing",
+          "CMP 160: Data Structure and Algo.",
+          "ELE 172: Instrumentation",
+          "CMP 162: OO Programming in C++"
+        ]
+      }
+    ],
+    "Year II": [
+      {
+        "semester": "Semester III",
+        "courses": [
+          "MTH 210: Calculus- II",
+          "CMP 234: Computer Graphics",
+          "CMM 220: Data Communication",
+          "CMP 222: Database Management System",
+          "CMP 224: Microprocessor and ALP",
+          "CMP 232: Operating System"
+        ]
+      },
+      {
+        "semester": "Semester IV",
+        "courses": [
+          "CMP 228: Advanced Prog. in Java",
+          "MTH 250: Applied Mathematics",
+          "CMP 262: Computer Architecture",
+          "MTH 252: Numerical Methods",
+          "CMP 270: Research Fundamentals",
+          "CMP 264: Theory of Computation"
+        ]
+      }
+    ],
+    "Year III": [
+      {
+        "semester": "Semester V",
+        "courses": [
+          "CMP 346: Artificial Intelligence",
+          "CMM 344: Digital Signal Analysis & Pr.",
+          "ELX 320: Embedded System",
+          "MGT 320: Engineering Management",
+          "MTH 216: Probability and Statistics",
+          "CMP 348: Software Engineering"
+        ]
+      },
+      {
+        "semester": "Semester VI",
+        "courses": [
+          "CMP 344: Computer Networks",
+          "CMP 360: Data Science and Analysis",
+          "CMP 362: Image Processing & PR",
+          "CMP 364: Machine Learning",
+          "CMP 338: Simulation and Modeling",
+          "XXX XXX: Elective",
+          "PRJ 360: Project I"
+        ]
+      }
+    ],
+    "Year IV": [
+      {
+        "semester": "Semester VII",
+        "courses": [
+          "CMP 424: Cloud Computing & Vis.",
+          "CMP 422: Compiler Design",
+          "MGT 250: Engineering Economics",
+          "MGT 332: Entrepreneurship",
+          "CMP 426: Network and Cyber Security",
+          "XXX XXX: Elective II"
+        ]
+      },
+      {
+        "semester": "Semester VIII",
+        "courses": [
+          "INT 492: Internship",
+          "PRJ 452: Project II",
+          "XXX XXX: Elective II"
+        ]
+      }
+    ]
+  }
+}
