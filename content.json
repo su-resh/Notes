@@ -1,3 +1,54 @@
+// Markdown
+# Pokhara University Course Structure (2022):
+## Don't forget to star this repo.
+
+| **Year I/Semester I** | **Year I/Semester II** |
+|------------------------|------------------------|
+| ELE 120: Basic Electrical Engineering<br>[Notes](#) [Syllabus](https://github.com/su-resh/BE-Computer/blob/main/Syllabus/First%20Sem/Basic%20Eletrical%20Engineering.pdf) | MTH 150: Algebra and Geometry<br>[Notes](#) [Syllabus](#) |
+| MTH 110: Calculus-I<br>[Notes](#) [Syllabus]() | CHM 110: Applied Chemistry<br>[Notes](#) [Syllabus](#) |
+| ENG 110: Communication Techniques<br>[Notes](#) [Syllabus](#) | PHY 110: Applied Physics<br>[Notes](#) [Syllabus](#) |
+| CMP 122: Computer Workshop<br>[Notes](#) [Syllabus](#) | MEC 116: Basic Engg Drawing<br>[Notes](#) [Syllabus](#) |
+| ELX 110: Digital Logic<br>[Notes](#) [Syllabus](#) | CMP 160: Data Structure and Algo.<br>[Notes](#) [Syllabus](#) |
+| ELX 120: Elx Device and Circuit<br>[Notes](#) [Syllabus](#) | ELE 172: Instrumentation<br>[Notes](#) [Syllabus](#) |
+| CMP 124: Programming in C<br>[Notes](#) [Syllabus](#) | CMP 162: OO Programming in C++<br>[Notes](#) [Syllabus](#) |
+
+| **Year II/Semester III** | **Year II/Semester IV** |
+|--------------------------|--------------------------|
+| MTH 210: Calculus- II<br>[Notes](#) [Syllabus](#) | CMP 228: Advanced Prog. in Java<br>[Notes](#) [Syllabus](#) |
+| CMP 234: Computer Graphics<br>[Notes](#) [Syllabus](#) | MTH 250: Applied Mathematics<br>[Notes](#) [Syllabus](#) |
+| CMM 220: Data Communication<br>[Notes](#) [Syllabus](#) | CMP 262: Computer Architecture<br>[Notes](#) [Syllabus](#) |
+| CMP 222: Database Management System<br>[Notes](#) [Syllabus](#) | MTH 252: Numerical Methods<br>[Notes](#) [Syllabus](#) |
+| CMP 224: Microprocessor and ALP<br>[Notes](#) [Syllabus](#) | CMP 270: Research Fundamentals<br>[Notes](#) [Syllabus](#) |
+| CMP 232: Operating System<br>[Notes](#) [Syllabus](#) | CMP 264: Theory of Computation<br>[Notes](#) [Syllabus](#) |
+
+| **Year III/Semester V** | **Year III/Semester VI** |
+|-------------------------|--------------------------|
+| CMP 346: Artificial Intelligence<br>[Notes](#) [Syllabus](#) | CMP 344: Computer Networks<br>[Notes](#) [Syllabus](#) |
+| CMM 344: Digital Signal Analysis & Pr.<br>[Notes](#) [Syllabus](#) | CMP 360: Data Science and Analysis<br>[Notes](#) [Syllabus](#) |
+| ELX 320: Embedded System<br>[Notes](#) [Syllabus](#) | CMP 362: Image Processing & PR<br>[Notes](#) [Syllabus](#) |
+| MGT 320: Engineering Management<br>[Notes](#) [Syllabus](#) | CMP 364: Machine Learning<br>[Notes](#) [Syllabus](#) |
+| MTH 216: Probability and Statistics<br>[Notes](#) [Syllabus](#) | CMP 338: Simulation and Modeling<br>[Notes](#) [Syllabus](#) |
+| CMP 348: Software Engineering<br>[Notes](#) [Syllabus](#) | XXX XXX: Elective<br>[Notes](#) [Syllabus](#) |
+|  | PRJ 360: Project I<br>[Notes](#) [Syllabus](#) |
+
+| **Year IV/Semester VII** | **Year IV/Semester VIII** |
+|--------------------------|---------------------------|
+| CMP 424: Cloud Computing & Vis.<br>[Notes](#) [Syllabus](#) | INT 492: Internship<br>[Notes](#) [Syllabus](#) |
+| CMP 422: Compiler Design<br>[Notes](#) [Syllabus](#) | PRJ 452: Project II<br>[Notes](#) [Syllabus](#) |
+| MGT 250: Engineering Economics<br>[Notes](#) [Syllabus](#) | XXX XXX: Elective II<br>[Notes](#) [Syllabus](#) |
+| MGT 332: Entrepreneurship<br>[Notes](#) [Syllabus](#) |  |
+| CMP 426: Network and Cyber Security<br>[Notes](#) [Syllabus](#) |  |
+| XXX XXX: Elective II<br>[Notes](#) [Syllabus](#) |  |
+
+**Note:** This course structure is followed from 2022 B.E computer batch.  
+- All the contents provided are from Pokhara Engineering College 2022 batch.
+- This repo will be updated continuously.
+- Feel free to contribute 😄.
+- Have a nice day.
+- Some notes are also available in the sheet you can review those.
+
+
+// Json
 {
   "courses": {
     "Year I": [
